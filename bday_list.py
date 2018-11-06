@@ -18,7 +18,3 @@ def birthday_wish():
 birthday_wish()
 
 print(birthday_wish())
-
-
-
-
